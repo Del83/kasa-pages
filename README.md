@@ -1,5 +1,3 @@
-# KASA
-
 ![alt text](https://github.com/Del83/kasa-pages/blob/master/src/assets/logo.png "Logo du site")
 
 `React app`

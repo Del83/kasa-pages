@@ -8,7 +8,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-![alt text](https://github.com/Del83/kasa-pages/src/assets/kasa.png "Image du site")
+![alt text](https://github.com/Del83/kasa-pages/blob/master/src/assets/kasa.png "Image du site")
 
 ## Table of Contents
 

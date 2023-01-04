@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home/home";
 import Lodging from "./pages/Lodging/lodging";
 import About from "./pages/About/about";
@@ -9,7 +9,7 @@ import "./index.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <BrowserRouter>
+  <HashRouter>
     <Routes>
       <Route exact path="/home" element={<Home />}></Route>
       <Route exact path="/kasa_pages" element={<Home />}></Route>
@@ -18,5 +18,5 @@ root.render(
       <Route exact path="/about" element={<About />}></Route>
       <Route path="*" element={<Error />}></Route>
     </Routes>
-  </BrowserRouter>
+  </HashRouter>
 );

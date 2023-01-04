@@ -1,7 +1,7 @@
 {
   "name": "kasa_pages",
   "version": "0.1.0",
-  "homepage": "https://del83.github.io/kasa_pages",
+  "homepage": "https://del83.github.io/kasa-pages",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

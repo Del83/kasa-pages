@@ -1,6 +1,6 @@
 # KASA
 
-![alt text](https://github.com/Del83/Pennehouat_Delphine_14_HRnet_0922/blob/master/src/assets/logo.png "Logo du site")
+![alt text](https://github.com/Del83/kasa-pages/blob/master/src/assets/logo.png "Logo du site")
 
 `React app`
 
@@ -8,7 +8,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-![alt text](https://github.com/Del83/Pennehouat_Delphine_14_HRnet_0922/blob/master/src/assets/kasa.png "Image du site")
+![alt text](https://github.com/Del83/kasa-pages/blob/master/src/assets/kasa.png "Image du site")
 
 ## Table of Contents
 

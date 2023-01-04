@@ -1,4 +1,6 @@
-# HRnet - health wealth
+# KASA
+
+![alt text](https://github.com/Del83/Pennehouat_Delphine_14_HRnet_0922/blob/master/src/assets/logo.png "Logo du site")
 
 `React app`
 
